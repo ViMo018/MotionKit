@@ -1,0 +1,2 @@
+Figma Link - https://www.figma.com/design/uPv8wAHWA22g46P3IzqJnX/Untitled?node-id=0-1&t=ZuRkcPEbIPTuXgZv-1
+Note - Clicking on logo icon opens and collapses sidebar
